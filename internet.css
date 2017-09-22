@@ -1,0 +1,267 @@
+
+#wrapper{
+    width: 970px;
+    height: 1000px;
+
+}
+#header{
+    height: 100px;
+    width: 970px;
+    background-color: white;
+    display: inline-block;
+}
+.pic{
+    height: 100px;
+    width: 110px;
+    display: inline-block;
+}
+.para{
+    margin: 0px;
+    margin-top: 20px;
+    font-size: 60px;
+}
+.globe{
+    height: 110px;
+    width: 110px;
+    display: inline-block;
+}
+.internet{
+    width: 800px;
+    height: 100px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+.blue{
+    color: blue;
+}
+#name{
+    height: 90px;
+    width: 970px;
+    background: linear-gradient(0deg,rgb(36, 88, 133), #7AA2F3,rgb(36, 88, 133));
+    padding-left: 5px;
+    padding-top: 3px;
+    vertical-align: text-bottom;
+    color: white;
+}
+.www{
+    font-size: 40px;
+    margin: 15px 0px 15px 15px; 
+}
+#main{
+    width: 970px;
+    height: 800px;
+    display: inline-block;
+}
+#sidenav{
+    height: 800px;
+    width: 200px;
+    display:inline-block;
+}
+.text{
+    height: 270px;
+    width: 200px;
+
+}
+.ninja{
+    height: 350px;
+    width: 200px;
+    margin-bottom: auto;
+    background-image: url(ad_background.png);
+}
+.red{
+    color: red;
+}
+.p1{
+    font-size: 20px;
+}
+.spanblue{
+    color: blue;
+}
+.watch{
+    height: 45px;
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    background-color: rgb(69, 126, 174);
+    color: white;
+    border-radius: 5px;
+    padding: 3px 5px;
+    text-align: center;
+}
+.more{
+    height: 45px;
+    width: 180px;
+    display: block;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    background-color: rgb(230, 129, 7);
+    color: white;
+    border-radius: 5px;
+    padding: 3px 5px;
+    text-align: center;
+}
+.extra{
+    width: 200px;
+    height: 23px;
+    display: block;
+    border: 1px solid white;
+    border-bottom-color:rgba(188, 188, 188, 0.49);
+    
+}
+.word{
+    height: 100px;
+    width: 200px;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: 25px;
+}
+.ninjapic{
+    height: 80px;
+    width: 70px;
+    text-align: center;
+    display: block;
+}
+.ninjap{
+    height: 140px;
+    width: 90px;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: block;
+}
+.learn{
+    width: 170px;
+    height: 30px;
+    text-align: center;
+    display: block;
+    color: white;
+    background-color: rgb(44, 197, 222);
+    margin-top: 70px;
+    margin-left: 16px;
+    border-radius: 3px;
+}
+.clear{
+    color: rgb(118, 215, 231);
+}
+.lessclear{
+    color: rgb(162, 228, 240);
+}
+#rightside{
+    width: 766px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.homepic{
+    width: 29px;
+    height: 29px;
+    display: inline;
+}
+.homeimg{
+    width: 25px;
+    height: 25px;
+    display: inline;
+
+}
+.dns{
+    width: 80px;
+    height: 30px;
+    color: rgb(50, 106, 157);
+    display: inline; 
+    font-size: 20px;
+}
+.phone{
+    width: 298px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 399px;
+    
+}
+
+.phoneimg{
+    width: 60px;
+    height: 60px;
+    margin-left: 4px;
+    margin-top: 9px;
+    display: inline-block;
+}
+.dates{
+    width: 230px;
+    height: 100px;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+}
+.small{
+    font-size: 13px;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.big{
+    font-size: 33px;
+    font-weight: bold;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    color: rgb(0, 191, 222);
+}
+.headings{
+    color: rgb(44, 105, 159);
+    margin-bottom: 5px;
+}
+.skyblue{
+    color: rgb(68, 173, 190);
+}
+.long{
+    margin-top: 3px;
+}
+.client{
+    width: 340px;
+    height: 120px;
+    margin-left: 200px;
+    margin-right: 150px;
+}
+.bottom{
+    width: 700px;
+    height: 170px;
+    border: 5px solid rgb(0, 131, 221);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 25px;
+    border-bottom-color: white;
+}
+.threepics{
+    width: 140px;
+    height: 140px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.footer{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3px 0px;
+}
+.end{
+    color: rgb(44, 105, 159);
+    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.theend{
+    width: 548px;
+    height: 165px;
+    display: inline-block;
+    vertical-align: top;
+}
